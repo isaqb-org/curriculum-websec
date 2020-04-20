@@ -2,7 +2,15 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} 1
+// tag::DE[]
+== Überschrift für Modul 1
+// end::DE[]
+
+// tag::EN[]
+== Title of first module
+// end::EN[]
+
+
 
 include::01-duration-terms.adoc[{include_configuration}]
 
