@@ -12,11 +12,11 @@ ifdef::env-github[]
 endif::[]
 
 == Status 
-image:https://github.com/isaqb-org/advanced-template/workflows/CI/badge.svg?branch=master["CI"]
-image:https://img.shields.io/github/last-commit/isaqb-org/advanced-template/master.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/advanced-template.svg["Contributors",link="https://github.com/isaqb-org/advanced-template/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/advanced-template.svg["Issues",link="https://github.com/isaqb-org/advanced-template/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/advanced-template.svg["Issues closed",link="https://github.com/isaqb-org/advanced-template/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://github.com/isaqb-org/curriculum-websec/workflows/CI/badge.svg?branch=master["CI"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-websec/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-websec.svg["Contributors",link="https://github.com/isaqb-org/curriculum-websec/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-websec.svg["Issues",link="https://github.com/isaqb-org/curriculum-websec/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-websec.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-websec/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
 This is <<copyrighted,copyrighted work>>.
