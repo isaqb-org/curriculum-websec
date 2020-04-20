@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Advanced Level Curriculum WEBSEC
 
 :toc:
 :toc-placement!:
@@ -22,7 +22,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-websec.sv
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+This repository contains the iSAQB Advanced Level curriculum *WEBSEC* in AsciiDoc.
 
 toc::[]
 
