@@ -4,13 +4,14 @@
 |===
 
 === Begriffe und Konzepte
-* Dokumentation Sicherheitskonzept
-* Zugriffskonzept
-* sichere Entwicklungsinfrastruktur
-* Umgang mit 3rd Party Code
-* unterstützende Werkzeuge
-* Application Security Lifecycle
-* Security by Design
+* WAF
+* DMZ
+* Firewall
+* IDS
+* IPS
+* Logging
+* Monitoring
+* Ongoing Feedback
 
 // end::DE[]
 

@@ -1,19 +1,22 @@
 // tag::DE[]
 === Voraussetzungen
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
+Die Voraussetzungen für das Training hängen von dem Bereich ab, auf den sich das Training fokussiert.
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+Beispielsweise sind die Voraussetzungen für Sicherheit im Web-Bereich:
 
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
+-	Grundkenntnisse Netzwerkkommunikation
+-	Grundkenntnisse in Web-Technologien wie
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+  * HTML
+  * CSS
+  * JavaScript
+  
+-	Grundkenntnisse in der Erstellung von Webanwendungen
+
+Für Informationssystem und Embedded Systems ergeben sich andere Voraussetzungen.
+Grundkenntnisse über die Architektur und Implementierung solcher Systeme reichen jedoch aus.
+
 // end::DE[]
 
 // tag::EN[]

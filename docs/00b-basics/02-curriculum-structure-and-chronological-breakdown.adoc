@@ -4,15 +4,15 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
+| 1. Analyse | 180
+| 2. Sicherer Design-/Entwicklungsprozess | 180
+| 3. Kryptographie | 180
+| 4. Web: Technische Grundlagen | 360
+| 5. Web: Mögliche Angriffsvektoren | 360
+| 6. Web: Security und Infrastruktur  | 180
 | |
-| Summe | 960 (16h)
-
+| Summe | 1440 (24h)
+  
 |===
 
 [.text-center]
@@ -28,14 +28,14 @@ image:01-basics/zeitaufteilung.png[pdfwidth=75%, role="text-center"]
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| 1. Analysis | 180
+| 2. Secure Development and Design | 180
+| 3. Cryptography | 180
+| 4. Web: Technical Foundations | 360
+| 5. Web: Attack Vectors | 360
+| 6. Web: Security and Infrastructure | 180
 | |
-| Total | 960 (16h)
+| Total | 1440 (24h)
 
 |===
 

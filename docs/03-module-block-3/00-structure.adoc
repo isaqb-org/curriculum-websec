@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} 3
+== {lesson} Kryptographie
 
 include::01-duration-terms.adoc[{include_configuration}]
 

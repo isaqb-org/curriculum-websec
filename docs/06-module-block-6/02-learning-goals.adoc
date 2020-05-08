@@ -1,0 +1,50 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+
+[[LZ-6-1]]
+==== LZ 6-1: Funktion/Arbeitsweise und Prozesse von Firewalls
+
+-	Paketfilterung
+-	Zonenkonzept im Betrieb
+-	Einsatz und Architekturauswirkungen einer DMZ
+
+[[LZ-6-2]]
+==== LZ 6-2: Web Application Firewalls
+
+[[LZ-6-3]]
+==== LZ 6-3: Intrusion Detection / Prevention Systeme
+
+[[LZ-6-4]]
+==== LZ 6-4: Validierung durch Feedback aus dem Betrieb
+
+Feedback Kanäle können unter anderem sein:
+
+-	Logging
+-	Monitoring
+-	Feste Feedback Prozesse / Schnittstellen
+
+[[LZ-6-5]]
+==== LZ 6-5: Einsatz von TLS
+- Konzept von Transport-Layer-Security
+- Einsatz auch innerhalb geschlossener Netze
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: TBD
+tbd.
+
+[[LG-6-2]]
+==== LG 6-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

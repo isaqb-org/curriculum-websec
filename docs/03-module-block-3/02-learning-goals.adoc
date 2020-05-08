@@ -2,28 +2,50 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+==== LZ 3-1: Grundbegriffe
 
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+-	Kryptographie (Verschlüsselung) zur Geheimhaltung von Informationen
+-	Grundbegriffe:
+
+  *	Integrität
+  *	Authentizität
+  * Vertraulichkeit
+  * Verbindlichkeit
+  * Schutz vor ungewolltem /unbefugtem Zugriff
+
+-	öffentliche versus vertrauliche Algorithmen (Kerckhoffs' Prinzip)
+-	Heutiger Stand der Forschung: öffentliche Algorithmen, geheime Schlüssel
 
 [[LZ-3-2]]
-==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 3-2: Hashing
+
+- Der Einsatz von Hash Verfahren
+-	Gängige Verfahren
+-	Bekannte Angriffe gegen Hashverfahren (z.B. Rainbow-Tables)
+-	Salting
+
+[[LZ-3-3]]
+==== LZ 3-3: Verschlüsslungsverfahren
+
+-	Den Einfluss von sicherer Zufallszahlenerzeugung auf die Verschlüsslung (Entropie)
+-	Die Usecases und Verwendung von symmetrischer Verschlüsselung
+-	Die Usecases und Verwendung von asymmetrischer Verschlüsselung
+-	Gängige Verfahren und ihre empfohlene Lebenszeit
+-	Konzept "Perfect-Forward-Secrecy"
+
+
+[[LZ-3-4]]
+==== LZ 3-4: Vertrauenskonzepte
+- CA Konzepte und PKI
+-	Web of Trust
+
+[[LZ-3-5]]
+==== LZ 3-5: Praktischer Einsatz
+
+-	Nutzung von Kryptographie-Bibliotheken und -Frameworks
+-	Konzept der _Crypto-Provider_ (Trennung von Schnittstelle und Implementierung)
+-	Zertifikate (X.509)
+-	Digitale Signaturen
 
 // end::DE[]
 

@@ -3,28 +3,66 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+==== LZ 5-1: Angriffsvektoren und Einordnung
 
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+Der Teilnehmer soll die üblichen Angriffsvektoren kennen und Architekturspezifisch einordnen können
+
+- Applikations Schicht
+-	Betriebssystem und Container-Schicht
+-	Netzwerk-Schicht
+-	Design-Schicht
+-	Prozess-Schicht
+
 
 [[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 5-2: Spezielle Gefahren von Social Engineering bei Web-Anwendungen
+
+[[LZ-5-3]]
+==== LZ 5-3: Injection Angriffe
+
+-	Wie funktionieren Injection-Angriffe?
+-	Welche Entwurfsentscheidung erschweren Injection-Angriffe
+
+[[LZ-5-4]]
+==== LZ 5-4: Bedeutung und Funktionsweise von Denial-of-Service (DoS) und Distributed-Denial-of-Service (DDoS) Angriffen
+- Wie funktionieren DoS und DDoS Angriffe?
+- Welche Entwurfsentscheidungen können DoS und DDoS Angriffe erschweren?
+- Wie kann man im laufenden Betrieb solche Angriffe erkennen?
+- Bedeutung von Botnetzen
+
+
+[[LZ-5-5]]
+==== LZ 5-5: Angriffe über die Laufzeitumgebung/Applikationsplattform
+
+-	Verschlüsslung (temporärer) Daten
+-	Bedeutung von Swapping
+-	Backdoors
+-	In-Memory Attacken
+
+
+[[LZ-5-6]]
+==== LZ 5-6: Auffinden von Sicherheitslücken über Fuzzing
+
+- Welche Probleme sind durch Fuzzing zu finden
+-	Fuzzing als Blackboxtest
+-	Gegenmaßnahmen und Wirkung
+
+
+[[LZ-5-7]]
+==== LZ 5-7: Man-In-The-Middle Angriffe
+-	Wie funktionieren MITM Angriffe?
+-	Welche möglichen Gegenmaßnahmen können MITM Angriffe erschweren und/oder verhindern?
+-	Wie kann man MITM Angriffe erkennen?
+
+[[LZ-5-8]]
+==== LZ 5-8: 2.5.2.8	Wichtige Quellen über aktuelle Bedrohungen und Angriffe
+
+Es gibt eine Reihe bekannter, herstellerneutraler Websites, die aktuelle Angriffe und Bedrohungen publizieren und erläutern.
+
+-	SANS25
+-	OWASP Top Ten
+
+
 // end::DE[]
 
 // tag::EN[]

@@ -2,28 +2,44 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Dies ist das erste Lernziel in Kapitel 4, das mit xyz
+==== LZ 4-1: Gängige "Good Practices"
 
-- Was sollen die Teilnehmer können?
-   * Fähigkeit 1
-   * Fähigkeit 2
-   * Fähigkeit 3
-   * etc.
-- Was sollen die Teilnehmer verstehen?
-  * Aussage 1
-  * Behauptung 2
-  * Erfahrung 3
-  * Zusammenhang 4
-  * etc.
-- Was sollen die Teilnehmer kennen?
-  * Zusammenhang Nr. 1
-  * Norm Nr. 2
-  * Buch Nr. 3
-  * etc.
+-	"Don't do it yourself"
+-	Externe Security-Reviews
+-	Penetration Testing
 
 [[LZ-4-2]]
-==== LZ 4-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 4-2: Authentifizierungsarten
+
+-	Multifaktor
+-	HTTP Auth
+-	Single Sign On
+
+
+[[LZ-4-3]]
+==== LZ 4-3: "Security through Obscurity" Schutzmaßnahmen
+
+„Security through Obscurity“ Maßnahmen alleine reichen nicht aus um ein sicheres System umzusetzen, können aber eine hilfreiche Unterstützung sein, um Angriffsvektoren zu verkleinern und dem Angreifer möglichst wenige Informationen zur Verfügung zu stellen.
+
+[[LZ-4-4]]
+==== LZ 4-4: Sicherheitsrelevante Protokolle (beispielsweise TLS)
+
+[[LZ-4-5]]
+==== LZ 4-5: 2.4.2.5	Gängige Autorisierungskonzepte und relevante Implementierungen
+
+-	Zustandslosigkeit vs. Zustandsbehaftet
+-	OAuth (Open Standard for Authorization) / OpenID Connect
+-	OpenID
+-	SAML (Security Assertion Markup Language)
+-	JWT (JSON Web Tokens)
+
+
+[[LZ-4-6]]
+==== LZ 4-6: Unterstützende Werkzeuge
+-	Review
+-	Code/Projekt-Analyse
+-	Integration Build Prozess
+- ggf. können weitere Werkzeuge im Training erläutert werden
 
 // end::DE[]
 

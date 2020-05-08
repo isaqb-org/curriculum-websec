@@ -1,8 +1,23 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Bei Entwurf und Entwicklung von Software gehören Sicherheitsanforderungen zu den wichtigsten Herausforderungen. Oftmals gibt es in IT-Systemen eine Vielzahl möglicher Angriffspunkte, die potentielle Angreifer (mit entsprechendem Aufwand) erfolgreich ausnutzen könnten.
+
+Häufig führt der Mangel an einfachen Grundkenntnissen zum Thema Sicherheit, hoher Zeitdruck oder Unachtsamkeit zu scheinbar kleinen Fehlern, die aber in punkto Sicherheit dann mit fatalen Folgen ausgenutzt werden können. Gerade Webanwendungen haben oft einen potentiell großen, weltweit verteilten Benutzerkreis mit Zugriff über das Internet. Dabei vergrößert sich der Kreis der Angreifer massiv und damit auch die Wahrscheinlichkeit, dass Fehler entdeckt und ausgenutzt werden. Außerdem sind Web-Anwendung meistens schon kurz nach der Produktivstellung Opfer automatisierter Angriffsversuche. Informationssysteme werden gegebenenfalls nur von den eigenen Mitarbeitern genutzt und sind dadurch anderen Angriffsszenarien ausgesetzt. Embedded Systems schließlich sind mittlerweile fast überall zu finden, so dass Sicherheitsprobleme massive Auswirkungen haben können. Eine Möglichkeit für Updates ist gerade bei Embedded Systems nicht immer gegeben.
+
+Wirft man einen Blick auf die häufigsten Angriffsmethoden, können diese meistens durch eine "saubere" Architektur und klare Kommunikation unterbunden werden. Dieser Lehrplan soll die etwas akademische Welt von Sicherheit in der Softwareentwicklung mit gängiger technischer Praxis verbinden.
+
+Sicherheit kann nicht unabhängig von dem Einsatzkontext der Systeme betrachtet werden. Der Bezug auf Webanwendungen, Informationssystem oder Embedded Systems grenzt den Themenschwerpunkt ein und stellt sicher, dass die relevanten Informationen für die Sicherheit der jeweiligen Systeme vermittelt werden. Der Lehrplan fokussiert sich auf Webanwendungen, aber an den relevanten Stellen können stattdessen Inhalte zu Embedded Systems oder Informationssystemen eingefügt werden.
+
+=== Abgrenzung
+
+Dieser Lehrplan spart folgende Themenkomplexe aus:
+
+- Sicherheitsmaßnahmen wie zum Beispiel organisatorische Zugangs- bzw. Zutrittskontrollsysteme
+-	Bauliche Maßnahmen zur Steigerung der Sicherheit von IT-Infrastruktur (beispielsweise Brandschutz, Schließsysteme)
+-	Detaillierte Vorstellung bzw. Diskussion der gesetzlichen und juristischen Grundlagen
+-	Hardware (Physische Angriffe, Biometrie, Emissionen)
+
 // end::DE[]
 
 // tag::EN[]

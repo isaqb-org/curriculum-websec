@@ -4,9 +4,16 @@
 |===
 
 === Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
+* Angriffsvektoren
+* Angriffe in Netzwerken
+* gängige Angriffsmethoden im Web
+* Injection
+* Fuzzing
+* Hijacking
+* Cross-Site-Angriffe
+* Social Engineering
+* Denial-of-Service (DoS)
+* Credential stuffing
 
 // end::DE[]
 
