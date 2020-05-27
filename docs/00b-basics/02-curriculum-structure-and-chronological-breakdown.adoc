@@ -4,14 +4,14 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Analyse | 180
-| 2. Sicherer Design-/Entwicklungsprozess | 180
-| 3. Kryptographie | 180
-| 4. Web: Technische Grundlagen | 360
-| 5. Web: Mögliche Angriffsvektoren | 360
-| 6. Web: Security und Infrastruktur  | 180
+| 1. Analyse | 135
+| 2. Sicherer Design-/Entwicklungsprozess | 135
+| 3. Kryptographie | 135
+| 4. Web: Technische Grundlagen | 270
+| 5. Web: Mögliche Angriffsvektoren | 270
+| 6. Web: Security und Infrastruktur  | 135
 | |
-| Summe | 1440 (24h)
+| Summe | 1080 (18h)
   
 |===
 
