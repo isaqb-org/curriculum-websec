@@ -25,7 +25,7 @@
 ==== LZ 4-4: Sicherheitsrelevante Protokolle (beispielsweise TLS)
 
 [[LZ-4-5]]
-==== LZ 4-5: 2.4.2.5 Gängige Autorisierungskonzepte und relevante Implementierungen
+==== LZ 4-5: Gängige Autorisierungskonzepte und relevante Implementierungen
 
 - Zustandslosigkeit vs. Zustandsbehaftet
 - OAuth (Open Standard for Authorization) / OpenID Connect
