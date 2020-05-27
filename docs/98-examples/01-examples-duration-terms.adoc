@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 180 Min. | Übungszeit: XXX Min.
 |===
 
 Dieser Abschnitt ist nicht prüfungsrelevant.

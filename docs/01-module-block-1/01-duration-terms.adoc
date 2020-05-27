@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 180 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@
 * Threat Management
 * Attack Tree
 * Angriffsvektor
-* Betriebskonzept 
+* Betriebskonzept
 * Audit
 * Richtlinien
 * Standards
