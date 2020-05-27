@@ -4,18 +4,14 @@
 |===
 
 === Begriffe und Konzepte
-* Authentifizierungskonzepte
-* Multi-Faktor
-* Single Sign On
-* Identity Management
-* Federation
-* Werkzeuge
-* sichere Protokolle
-* Autorisierungskonzepte
 Konkrete Sicherheitsprobleme wie Authentifizierung oder sichere Datenübertragung werden oft mit technisch ähnlichen Maßnahmen gelöst.
 Diese Lösungen setzen teilweise ein bestimmtes Anwendungsdesign voraus. Nachträgliches Refactoring in Richtung dieser Entwürfe ist oft mit hohen Aufwänden verbunden und an diesen kritischen Stellen fehleranfällig.
 
 _Dieser Teil bezieht sich auf die Sicherheit von Web-Systemen. Für Informationssysteme oder Embedded Systeme müssen entsprechend andere Inhalte vermittelt werden._
+
+*Wichtige Begriffe:*
+
+Authentifizierungskonzepte, Multi-Faktor, Single-Sign-On, Identity Management, Federation, Werkzeuge, sichere Protokolle, Autorisierungskonzepte
 
 // end::DE[]
 
