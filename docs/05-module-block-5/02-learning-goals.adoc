@@ -55,7 +55,7 @@ Die Teilnehmer sollen die üblichen Angriffsvektoren kennen und Architekturspezi
 - Wie kann man MITM Angriffe erkennen?
 
 [[LZ-5-8]]
-==== LZ 5-8: 2.5.2.8 Wichtige Quellen über aktuelle Bedrohungen und Angriffe
+==== LZ 5-8: Wichtige Quellen über aktuelle Bedrohungen und Angriffe
 
 Es gibt eine Reihe bekannter, herstellerneutraler Websites, die aktuelle Angriffe und Bedrohungen publizieren und erläutern.
 
