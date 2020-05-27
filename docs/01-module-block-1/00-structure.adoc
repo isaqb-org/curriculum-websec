@@ -3,16 +3,12 @@
 // ====================================================
 
 // tag::DE[]
-== {lesson} Analyse
-
-
+== Analyse
 // end::DE[]
 
 // tag::EN[]
-== {lesson} 1: Analysis
+== Analysis
 // end::EN[]
-
-
 
 include::01-duration-terms.adoc[{include_configuration}]
 
