@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} Web: Bekannte Angriffe und Angriffsvektoren
+== Web: Bekannte Angriffe und Angriffsvektoren
 
 include::01-duration-terms.adoc[{include_configuration}]
 
