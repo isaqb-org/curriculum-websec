@@ -12,6 +12,9 @@
 * Logging
 * Monitoring
 * Ongoing Feedback
+Webanwendungen laufen nicht als völlig isolierte Systeme, sondern sind von Infrastruktur umgeben. Um die Sicherheit zu erhöhen kommen immer wieder die gleichen Komponenten zum Einsatz. Dabei geht es nicht um spezifische Produkte eines Herstellers, sondern um die grundlegenden Ideen und Konzepte hinter diesen.
+
+_Dieser Teil bezieht sich auf die Sicherheit von Web-Systemen. Für Informationssysteme oder Embedded Systeme müssen entsprechend andere Inhalte vermittelt werden._
 
 // end::DE[]
 
