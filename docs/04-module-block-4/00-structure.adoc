@@ -2,14 +2,9 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} Web: Technische Grundlagen
-
-Konkrete Sicherheitsprobleme wie Authentifizierung oder sichere Datenübertragung werden oft mit technisch ähnlichen Maßnahmen gelöst. Diese Lösungen setzen teilweise ein bestimmtes Anwendungsdesign voraus. Nachträgliches Refactoring in Richtung dieser Entwürfe ist oft mit hohen Aufwänden verbunden und an diesen kritischen Stellen fehleranfällig.
-Dieser Teil bezieht sich auf die Sicherheit von Web-Systemen. Für Informationssysteme oder Embedded Systeme müssen entsprechend andere Inhalte vermittelt werden.
+== Web: Technische Grundlagen
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 include::02-learning-goals.adoc[{include_configuration}]
 
-// references (if any!)
-include::references.adoc[{include_configuration}]

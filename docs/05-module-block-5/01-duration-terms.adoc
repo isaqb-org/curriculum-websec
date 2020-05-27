@@ -4,17 +4,13 @@
 |===
 
 === Begriffe und Konzepte
-* Angriffsvektoren
-* Angriffe in Netzwerken
-* gängige Angriffsmethoden im Web
-* Injection
-* Fuzzing
-* Hijacking
-* Cross-Site-Angriffe
-* Social Engineering
-* Denial-of-Service (DoS)
-* Credential stuffing
+Auch wenn Angriffsmethoden wie zum Beispiel "SQL Injections" seit mehreren Jahrzehnten bekannt sind, zeigt deren Verbreitung, dass dieses Problem immer noch besteht. Gerade bei Webanwendungen zeigt sich ein immer wiederkehrendes Muster von Angriffen. Ein Verständnis gängiger Angriffe ist Grundvoraussetzung für Entwurf und Entwicklung sicherer Anwendungen.
 
+_Dieser Teil bezieht sich auf die Sicherheit von Web-Systemen. Für Informationssysteme oder Embedded Systeme müssen entsprechend andere Inhalte vermittelt werden._
+
+*Wichtige Begriffe:*
+
+Angriffsvektoren, Angriffe in Netzwerken, gängige Angriffsmethoden im Web, Injection, Fuzzing, Hijacking, Cross-Site-Angriffe, Social Engineering, Denial-of-Service (DoS), Credential stuffing
 // end::DE[]
 
 // tag::EN[]
@@ -28,16 +24,3 @@
 * Term 3
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]

@@ -4,48 +4,48 @@
 [[LZ-3-1]]
 ==== LZ 3-1: Grundbegriffe
 
--	Kryptographie (Verschlüsselung) zur Geheimhaltung von Informationen
--	Grundbegriffe:
+- Kryptographie (Verschlüsselung) zur Geheimhaltung von Informationen
+- Grundbegriffe:
 
-  *	Integrität
-  *	Authentizität
+  * Integrität
+  * Authentizität
   * Vertraulichkeit
   * Verbindlichkeit
   * Schutz vor ungewolltem /unbefugtem Zugriff
 
--	öffentliche versus vertrauliche Algorithmen (Kerckhoffs' Prinzip)
--	Heutiger Stand der Forschung: öffentliche Algorithmen, geheime Schlüssel
+- öffentliche versus vertrauliche Algorithmen (Kerckhoffs' Prinzip)
+- Heutiger Stand der Forschung: öffentliche Algorithmen, geheime Schlüssel
 
 [[LZ-3-2]]
 ==== LZ 3-2: Hashing
 
 - Der Einsatz von Hash Verfahren
--	Gängige Verfahren
--	Bekannte Angriffe gegen Hashverfahren (z.B. Rainbow-Tables)
--	Salting
+- Gängige Verfahren
+- Bekannte Angriffe gegen Hashverfahren (z.B. Rainbow-Tables)
+- Salting
 
 [[LZ-3-3]]
-==== LZ 3-3: Verschlüsslungsverfahren
+==== LZ 3-3: Verschlüsselungsverfahren
 
--	Den Einfluss von sicherer Zufallszahlenerzeugung auf die Verschlüsslung (Entropie)
--	Die Usecases und Verwendung von symmetrischer Verschlüsselung
--	Die Usecases und Verwendung von asymmetrischer Verschlüsselung
--	Gängige Verfahren und ihre empfohlene Lebenszeit
--	Konzept "Perfect-Forward-Secrecy"
+- Den Einfluss von sicherer Zufallszahlenerzeugung auf die Verschlüsslung (Entropie)
+- Die Usecases und Verwendung von symmetrischer Verschlüsselung
+- Die Usecases und Verwendung von asymmetrischer Verschlüsselung
+- Gängige Verfahren und ihre empfohlene Lebenszeit
+- Konzept "Perfect-Forward-Secrecy"
 
 
 [[LZ-3-4]]
 ==== LZ 3-4: Vertrauenskonzepte
 - CA Konzepte und PKI
--	Web of Trust
+- Web of Trust
 
 [[LZ-3-5]]
 ==== LZ 3-5: Praktischer Einsatz
 
--	Nutzung von Kryptographie-Bibliotheken und -Frameworks
--	Konzept der _Crypto-Provider_ (Trennung von Schnittstelle und Implementierung)
--	Zertifikate (X.509)
--	Digitale Signaturen
+- Nutzung von Kryptographie-Bibliotheken und -Frameworks
+- Konzept der _Crypto-Provider_ (Trennung von Schnittstelle und Implementierung)
+- Zertifikate (X.509)
+- Digitale Signaturen
 
 // end::DE[]
 
@@ -59,9 +59,3 @@ tbd.
 tbd.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]

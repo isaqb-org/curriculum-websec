@@ -13,60 +13,60 @@ Weitere Prinzipien legen beim Design, Entwicklung und der Teamkultur den Grundst
 [[LZ-2-3]]
 ==== LZ 2-3: Indikatoren für sicheres Applikationsdesign
 
--	Einhaltung der dokumentierten Architekturvorgaben
--	Einhaltung eines dokumentierten Entwicklungsprozesses
--	Regelmäßige Reviews (zum Beispiel 4-Augen Prinzip)
--	Abgeleitete Maßnahmen aus der Bedrohungsanalyse
+- Einhaltung der dokumentierten Architekturvorgaben
+- Einhaltung eines dokumentierten Entwicklungsprozesses
+- Regelmäßige Reviews (zum Beispiel 4-Augen Prinzip)
+- Abgeleitete Maßnahmen aus der Bedrohungsanalyse
 
 [[LZ-2-4]]
 ==== LZ 2-4: Grundlegende Pattern für "Secure Coding Guidelines"
--	Eigene Pattern zu Security finden
+- Eigene Pattern zu Security finden
 
 Weitere Beispiele:
 
--	Secure Factory
--	Secure State Machine
--	Secure Logger
--	…
+- Secure Factory
+- Secure State Machine
+- Secure Logger
+- ...
 
 [[LZ-2-5]]
 ==== LZ 2-5: Inhalte eines sicheren Entwicklungsprozesses und Beispielframeworks
 
--	OWASP SAMM
--	MS SDL
--	BSIMM
--	Eigene Ableitungen von Best Practices passend für das eigene Unternehmen
+- OWASP SAMM
+- MS SDL
+- BSIMM
+- Eigene Ableitungen von Best Practices passend für das eigene Unternehmen
 
 [[LZ-2-6]]
 ==== LZ 2-6: Zugriffskonzepte auf Systemlandschaft, Artefakte und Quellcode
 
--	Das Erstellen von Zugriffskonzepten
--	Das Ausgestalten von Security-relevanten Abnahmekriterien
--	Wie Veränderungen an einer Applikation vollständig protokolliert werden
--	Wie mit 3rd Party Code sicher umgegangen werden kann (Dependency Management)
--	Wie funktioniert Penetration Testing als Audit Methode
--	Welche Testmöglichkeiten gibt es?
--	Einfluss eines sicheren Entwicklungsprozesses auf die Infrastruktur und Projektplanung
+- Das Erstellen von Zugriffskonzepten
+- Das Ausgestalten von Security-relevanten Abnahmekriterien
+- Wie Veränderungen an einer Applikation vollständig protokolliert werden
+- Wie mit 3rd Party Code sicher umgegangen werden kann (Dependency Management)
+- Wie funktioniert Penetration Testing als Audit Methode
+- Welche Testmöglichkeiten gibt es?
+- Einfluss eines sicheren Entwicklungsprozesses auf die Infrastruktur und Projektplanung
 
 [[LZ-2-7]]
 ==== LZ 2-7: Welche Hilfsmittel und Infrastrukturkomponenten unterstützen den sicheren Entwicklungsprozess
--	Grundlegende Werkzeuge zur Unterstützung eines sichereren Entwicklungsprozesses
--	Grundlegende Security relevante Infrastrukturkomponenten
+- Grundlegende Werkzeuge zur Unterstützung eines sichereren Entwicklungsprozesses
+- Grundlegende Security relevante Infrastrukturkomponenten
 
 [[LZ-2-8]]
 ==== LZ 2-8: Abgrenzung der Analysemethoden
 
--	SAST (Static Application Security Testing)
--	DAST (Dynamic Application Security Testing)
--	IAST (Interactive Application Security Testing)
--	SCA (Software Composition Analysis)
+- SAST (Static Application Security Testing)
+- DAST (Dynamic Application Security Testing)
+- IAST (Interactive Application Security Testing)
+- SCA (Software Composition Analysis)
 
 [[LZ-2-9]]
 ==== LZ 2-9: Incident Management
 
--	Rückmeldung von Sicherheitslücken
--	Application Security Lifecycle
--	Patch Management
+- Rückmeldung von Sicherheitslücken
+- Application Security Lifecycle
+- Patch Management
 
 // end::DE[]
 
@@ -79,10 +79,3 @@ tbd.
 ==== LG 2-2: TBD
 tbd.
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]

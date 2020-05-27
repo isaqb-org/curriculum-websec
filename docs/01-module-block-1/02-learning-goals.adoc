@@ -6,46 +6,46 @@
 
 Zu einer ganzheitlichen Softwarearchitektur gehören:
 
--	Analyse von Risiken aus einer Security Perspektive
--	Gefahrensmodelle
--	Angriffsbäume
--	Bedrohungsanalyse
+- Analyse von Risiken aus einer Security Perspektive
+- Gefahrensmodelle
+- Angriffsbäume
+- Bedrohungsanalyse
 
 Einordnung der Risiken in Bezug auf die Architektur:
 
--	Anpassung von Qualitätszielen
--	Zusätzliche nichtfunktionale Anforderungen
--	die mögliche Anwendung von Secure Design Pattern
+- Anpassung von Qualitätszielen
+- Zusätzliche nichtfunktionale Anforderungen
+- die mögliche Anwendung von Secure Design Pattern
 
 Verständnis für die Bedeutung von Risikomanagement und mögliche Maßnahmen über die Phasen:
 
--	Anforderungsanalyse
--	Architekturdesign
--	Entwicklungsprozess
--	Abnahme und Test
--	Betrieb und Infrastruktur
+- Anforderungsanalyse
+- Architekturdesign
+- Entwicklungsprozess
+- Abnahme und Test
+- Betrieb und Infrastruktur
 
-Diese Phasen sind unabhängig vom Vorgehensmodellen. Agile Prozesse und ein Wasserfall-Prozess durchlaufen beide diese Phasen, nur in unterschiedlicher Frequenz.
+Diese Phasen sind unabhängig von Vorgehensmodellen. Agile Prozesse und ein Wasserfall-Prozess durchlaufen beide diese Phasen, nur in unterschiedlicher Frequenz.
 
 [[LZ-1-2]]
-==== LZ 1-2: Die Grundlegenden Schutzziele
+==== LZ 1-2: Die grundlegenden Schutzziele
 
 Zu den Schutzzielen zählen:
 
--	Vertraulichkeit
--	Integrität
--	Authentizität
--	Verfügbarkeit
--	Verbindlichkeit
--	Anonymität
--	Zurechenbarkeit
+- Vertraulichkeit
+- Integrität
+- Authentizität
+- Verfügbarkeit
+- Verbindlichkeit
+- Anonymität
+- Zurechenbarkeit
 
 Die Teilnehmer sollen nach dem Training die Schutzziele kennen und ihre Bedeutung einschätzen können.
 
 [[LZ-1-3]]
 ==== LZ 1-3: Assets-Identifikation und Zugriffskonzepte
 
-Der Teilnehmer soll in der Lage sein, schützenswerte Assets (zum Beispiel schützenswerte oder personenbezogene Daten) zu identifizieren und zu klassifizieren. Außerdem sollte er mit Zugriffskonzepten umgehen können. Dazu ist es notwendig, Zugriffskonzepte zu verstehen und unterschiedliche Arten von Konzepten zu kennen (ACL, rollenbasiert, etc.).
+Die Teilnehmer sollen in der Lage sein, schützenswerte Assets (zum Beispiel schützenswerte oder personenbezogene Daten) zu identifizieren und zu klassifizieren. Außerdem sollten sie mit Zugriffskonzepten umgehen können. Dazu ist es notwendig, Zugriffskonzepte zu verstehen und unterschiedliche Arten von Konzepten zu kennen (ACL, rollenbasiert, etc.).
 
 [[LZ-1-4]]
 ==== LZ 1-4: Kriterien zur Abnahme und Audit identifizieren
@@ -53,7 +53,8 @@ Der Teilnehmer soll in der Lage sein, schützenswerte Assets (zum Beispiel schü
 Nach der Identifikation von schützenswerten Assets lassen sich daraus Maßnahmen zum Schutz dieser Assets ableiten. Die Umsetzung dieser Maßnahmen sollte bei einer Abnahme nach vorher bekannten Kriterien überprüft werden.
 
 [[LZ-1-5]]
-==== LZ 1-5: Die Teilnehmer sollen die Abwägung von Sicherheit gegenüber Qualitätsmerkmalen (z.B.: Benutzbarkeit, ISO25010 vormals 9126) oder dem eigenen Geschäftszweck (Business Context Analysis) verstehen (R2)
+==== LZ 1-5: Abwägung von Sicherheit gegenüber anderen Qualitätsmerkmalen
+Die Teilnehmer sollen die Abwägung von Sicherheit gegenüber Qualitätsmerkmalen (z.B.: Benutzbarkeit, ISO25010 vormals 9126) oder dem eigenen Geschäftszweck (Business Context Analysis) verstehen.
 
 [[LZ-1-6]]
 ==== LZ 1-6: Verständnis für Sicherheit als Prozess, nicht als einzelne Maßnahme
@@ -65,19 +66,19 @@ Nach der Identifikation von schützenswerten Assets lassen sich daraus Maßnahme
 ==== LZ 1-8: Gängige Richtlinien, Standards und Empfehlungen kennen
 
 - ISO 27000 (Information Technology - Security Techniques)
--	ÖNORM A 7700 (Sicherheitstechnische Anforderungen an Webapplikationen)
--	BSI Grundschutz
--	Common Criteria for Information Technology Security Evaluation (ISO 15408)
--	OWASP (Open Web Application Security Project)
--	PCI-DSS (Payment Card Industry Data Security Standard)
--	DS-GVO (Datenschutzgrundverordnung)
--	Verordnungen über Sicherheit bei Auftragsdatenverarbeitung
--	Juristische Haftung bei Sicherheitsproblemen
+- ÖNORM A 7700 (Sicherheitstechnische Anforderungen an Webapplikationen)
+- BSI Grundschutz
+- Common Criteria for Information Technology Security Evaluation (ISO 15408)
+- OWASP (Open Web Application Security Project)
+- PCI-DSS (Payment Card Industry Data Security Standard)
+- DS-GVO (Datenschutzgrundverordnung)
+- Verordnungen über Sicherheit bei Auftragsdatenverarbeitung
+- Juristische Haftung bei Sicherheitsproblemen
 
 [[LZ-1-9]]
 ==== LZ 1-9: Gängige Klassifizierungssysteme für Sicherheitsprobleme kennen
--	CVSS (Common Vulnerability Scoring System)
--	OWASP Rating
+- CVSS (Common Vulnerability Scoring System)
+- OWASP Rating
 
 [[LZ-1-10]]
 ==== LZ 1-10: Gängige Zertifizierungen einordnen
@@ -90,9 +91,3 @@ Nach der Identifikation von schützenswerten Assets lassen sich daraus Maßnahme
 tbd.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
-// end::REMARK[]

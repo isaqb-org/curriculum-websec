@@ -4,13 +4,8 @@
 |===
 
 === Begriffe und Konzepte
-* Hashverfahren
-* Zufallszahlen
-* Entropie
-* Symmetrische Verschlüsslung
-* Asymmetrische Verschlüsslung
-* gängige Verfahren und ihre Lebenszeit
-* allgemeine Empfehlungen
+Hashverfahren, Zufallszahlen, Entropie, Symmetrische Verschlüsslung, Asymmetrische Verschlüsslung,
+gängige Verfahren und ihre Lebenszeit, allgemeine Empfehlungen
 
 // end::DE[]
 
@@ -25,16 +20,3 @@
 * Term 3
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]

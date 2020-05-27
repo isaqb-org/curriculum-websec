@@ -4,18 +4,18 @@
 |===
 
 === Begriffe und Konzepte
-* Risk Management
-* Risk Management Framework
-* Threat Modeling
-* Threat Management
-* Attack Tree
-* Angriffsvektor
-* Betriebskonzept
-* Audit
-* Richtlinien
-* Standards
-* Business Context analysis
-* Risk appetite
+
+Sicherheit in der Softwareentwicklung bedeutet oft einen höheren Aufwand bei Design, Entwicklung, Wartung und Betrieb einer Anwendung.
+Diese Maßnahmen sollen die Sicherheit der Anwendung erhöhen und damit grundsätzliche Architekturziele unterstützen. Dazu gehört als Grundlage eine Analyse der folgenden Aspekte:
+- schützenswerte Daten und Systemfunktionen,
+- potenzielle Angriffsvektoren
+- Umgang mit Problemen, die durch mögliche Sicherheitslücken entstehen.
+Hinzu kommen gängige Richtlinien und Standards. Diese Analysen dienen als Grundlage für alle weiteren Sicherheitskonzepte.
+
+*Wichtige Begriffe:*
+
+Risk Management, Risk Management Framework, Threat Modeling, Threat Management, Attack Tree, Angriffsvektor,
+Betriebskonzept, Audit, Richtlinien, Standards, Business Context analysis, Risk appetite
 
 // end::DE[]
 

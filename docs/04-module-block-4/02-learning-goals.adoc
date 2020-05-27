@@ -4,16 +4,16 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Gängige "Good Practices"
 
--	"Don't do it yourself"
--	Externe Security-Reviews
--	Penetration Testing
+- "Don't do it yourself"
+- Externe Security-Reviews
+- Penetration Testing
 
 [[LZ-4-2]]
 ==== LZ 4-2: Authentifizierungsarten
 
--	Multifaktor
--	HTTP Auth
--	Single Sign On
+- Multifaktor
+- HTTP Auth
+- Single Sign On
 
 
 [[LZ-4-3]]
@@ -25,20 +25,20 @@
 ==== LZ 4-4: Sicherheitsrelevante Protokolle (beispielsweise TLS)
 
 [[LZ-4-5]]
-==== LZ 4-5: 2.4.2.5	Gängige Autorisierungskonzepte und relevante Implementierungen
+==== LZ 4-5: Gängige Autorisierungskonzepte und relevante Implementierungen
 
--	Zustandslosigkeit vs. Zustandsbehaftet
--	OAuth (Open Standard for Authorization) / OpenID Connect
--	OpenID
--	SAML (Security Assertion Markup Language)
--	JWT (JSON Web Tokens)
+- Zustandslosigkeit vs. Zustandsbehaftet
+- OAuth (Open Standard for Authorization) / OpenID Connect
+- OpenID
+- SAML (Security Assertion Markup Language)
+- JWT (JSON Web Tokens)
 
 
 [[LZ-4-6]]
 ==== LZ 4-6: Unterstützende Werkzeuge
--	Review
--	Code/Projekt-Analyse
--	Integration Build Prozess
+- Review
+- Code/Projekt-Analyse
+- Integration Build Prozess
 - ggf. können weitere Werkzeuge im Training erläutert werden
 
 // end::DE[]

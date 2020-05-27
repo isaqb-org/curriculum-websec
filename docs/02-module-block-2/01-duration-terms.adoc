@@ -4,13 +4,12 @@
 |===
 
 === Begriffe und Konzepte
-* Dokumentation Sicherheitskonzept
-* Zugriffskonzept
-* sichere Entwicklungsinfrastruktur
-* Umgang mit 3rd Party Code
-* unterstützende Werkzeuge
-* Application Security Lifecycle
-* Security by Design
+
+Sicherheit muss schon bei der Entstehung einer Anwendung beachtet werden. Dies zieht sich über alle Phasen der Entwicklung. Sicherheitsspezifische Entwurfsentscheidungen beziehen sich oft auf konkrete Anforderungen. Jedoch gibt es etablierte Werkzeuge und Vorgehensmodelle, um Entwurf und Implementierung grundsätzlich sicherer zu gestalten.
+
+*Wichtige Begriffe:*
+
+Dokumentation Sicherheitskonzept, Zugriffskonzept, sichere Entwicklungsinfrastruktur, Umgang mit 3rd Party Code, unterstützende Werkzeuge, Application Security Lifecycle, Security by Design
 
 // end::DE[]
 
@@ -25,16 +24,3 @@
 * Term 3
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]
