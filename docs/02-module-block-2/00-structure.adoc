@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-== {lesson} Sicherer Entwurfs-/Entwicklungsprozess
+== Sicherer Entwurfs- und Entwicklungsprozess
 
 Sicherheit muss schon bei der Entstehung einer Anwendung beachtet werden. Dies zieht sich über alle Phasen der Entwicklung. Sicherheitsspezifische Entwurfsentscheidungen beziehen sich oft auf konkrete Anforderung. Jedoch gibt es etablierte Werkzeuge und Vorgehensmodelle, um Entwurf und Implementierung grundsätzlich sicherer zu gestalten.
 
