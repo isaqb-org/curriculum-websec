@@ -4,13 +4,8 @@
 |===
 
 === Begriffe und Konzepte
-* Hashverfahren
-* Zufallszahlen
-* Entropie
-* Symmetrische Verschlüsslung
-* Asymmetrische Verschlüsslung
-* gängige Verfahren und ihre Lebenszeit
-* allgemeine Empfehlungen
+Hashverfahren, Zufallszahlen, Entropie, Symmetrische Verschlüsslung, Asymmetrische Verschlüsslung,
+gängige Verfahren und ihre Lebenszeit, allgemeine Empfehlungen
 
 // end::DE[]
 
