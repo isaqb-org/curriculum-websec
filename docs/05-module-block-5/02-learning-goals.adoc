@@ -5,13 +5,13 @@
 [[LZ-5-1]]
 ==== LZ 5-1: Angriffsvektoren und Einordnung
 
-Der Teilnehmer soll die üblichen Angriffsvektoren kennen und Architekturspezifisch einordnen können
+Die Teilnehmer sollen die üblichen Angriffsvektoren kennen und Architekturspezifisch einordnen können
 
-- Applikations Schicht
+- Applikationsschicht
 - Betriebssystem und Container-Schicht
-- Netzwerk-Schicht
+- Netzwerkschicht
 - Design-Schicht
-- Prozess-Schicht
+- Prozessschicht
 
 
 [[LZ-5-2]]
