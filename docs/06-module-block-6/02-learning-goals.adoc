@@ -6,9 +6,9 @@
 [[LZ-6-1]]
 ==== LZ 6-1: Funktion/Arbeitsweise und Prozesse von Firewalls
 
--	Paketfilterung
--	Zonenkonzept im Betrieb
--	Einsatz und Architekturauswirkungen einer DMZ
+- Paketfilterung
+- Zonenkonzept im Betrieb
+- Einsatz und Architekturauswirkungen einer DMZ
 
 [[LZ-6-2]]
 ==== LZ 6-2: Web Application Firewalls
@@ -21,9 +21,9 @@
 
 Feedback Kanäle können unter anderem sein:
 
--	Logging
--	Monitoring
--	Feste Feedback Prozesse / Schnittstellen
+- Logging
+- Monitoring
+- Feste Feedback Prozesse / Schnittstellen
 
 [[LZ-6-5]]
 ==== LZ 6-5: Einsatz von TLS
