@@ -1,7 +1,7 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Bei Entwurf und Entwicklung von Software gehören Sicherheitsanforderungen zu den wichtigsten Herausforderungen. Oftmals gibt es in IT-Systemen eine Vielzahl möglicher Angriffspunkte, die potentielle Angreifer (mit entsprechendem Aufwand) erfolgreich ausnutzen könnten.
+Bei Entwurf und Entwicklung von Software gehören Sicherheitsanforderungen zu den wichtigsten Herausforderungen. Oftmals gibt es in IT-Systemen eine Vielzahl möglicher Angriffspunkte, die potenzielle Angreifer (mit entsprechendem Aufwand) erfolgreich ausnutzen könnten.
 
 Häufig führt der Mangel an einfachen Grundkenntnissen zum Thema Sicherheit, hoher Zeitdruck oder Unachtsamkeit zu scheinbar kleinen Fehlern, die aber in punkto Sicherheit dann mit fatalen Folgen ausgenutzt werden können. Gerade Webanwendungen haben oft einen potentiell großen, weltweit verteilten Benutzerkreis mit Zugriff über das Internet. Dabei vergrößert sich der Kreis der Angreifer massiv und damit auch die Wahrscheinlichkeit, dass Fehler entdeckt und ausgenutzt werden. Außerdem sind Webanwendungen meistens schon kurz nach der Produktivstellung Opfer automatisierter Angriffsversuche. Informationssysteme werden gegebenenfalls nur von den eigenen Mitarbeitern genutzt und sind dadurch anderen Angriffsszenarien ausgesetzt. Embedded Systems schließlich sind mittlerweile fast überall zu finden, so dass Sicherheitsprobleme massive Auswirkungen haben können. Eine Möglichkeit für Updates ist gerade bei Embedded Systems nicht immer gegeben.
 
@@ -34,3 +34,4 @@ Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen besc
 nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
 ====
 // end::REMARK[]
+
