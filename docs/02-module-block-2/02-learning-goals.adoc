@@ -27,7 +27,7 @@ Weitere Beispiele:
 - Secure Factory
 - Secure State Machine
 - Secure Logger
-- …
+- ...
 
 [[LZ-2-5]]
 ==== LZ 2-5: Inhalte eines sicheren Entwicklungsprozesses und Beispielframeworks
