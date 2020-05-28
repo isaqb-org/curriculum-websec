@@ -32,50 +32,39 @@ ATTENTION: labels have to be non-numeric.
 ====
 // end::REMARK[]
 
-**Attack Tree**
+**A**
 
-- [[[schneierAttackTrees,Schneier 1999]]] Bruce Schneier (1999), https://www.schneier.com/academic/archives/1999/12/attack_trees.html
-- [[[andersonSecEng,Anderson 2001]]] Ross Anderson: "Security Engineering", O'Reilly 2001, Methodology, p. 831
+- [[[andersonSecEng,Anderson 2001]]] Ross Anderson: "Security Engineering", O'Reilly 2001, Methodology
 
-**Threat Modelling**
+**B**
 
-- [[[owaspTM, OWASP]]] OWASP Wiki: "Threat Modelling", https://www.owasp.org/index.php/Application_Threat_Modeling
+- [[[bsi,BSI Grundschutz]]] BSI IT-Grundschutz: "Umfassende Ein- und Ausgabevalidierung bei Webanwendungen und Web-Services", https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKataloge/Inhalt/_content/m/m04/m04393.html
 
-**Risk Analysis**
-
-- [[[mcgraw,McGraw 2006]]] Garry McGraw: "Software Security - Building Security in", Addison Wesley 2006, Architectural Risk Analysis, p. 139
-
-**CVSS**
-
-- [[[first,first]]] FIRST, Common Vulnerability Scoring System, https://www.first.org/cvss
-
-**OWASP Risk Rating Methodology**
-
-- [[[owaspRRM, OWASP]]] OWASP Wiki: "Risk Rating Methodology", https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology
-
-**Eingabe/Ausgabe Validierung**
-
-- [[[bsi, BSI Grundschutz]]] BSI IT-Grundschutz: "Umfassende Ein- und Ausgabevalidierung bei Webanwendungen und Web-Services", https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKataloge/Inhalt/_content/m/m04/m04393.html
-
-**Secure Coding**
+**C**
 
 - [[[cert,CERT]]] CERT: "Top 10 Secure Coding Practices", https://www.securecoding.cert.org/confluence/display/seccode/Top+10+Secure+Coding+Practices
-- [[[owaspSCP,OWASP]]] OWASP Wiki: "Secure Coding Practices", https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
-- [[[secpatterns,Security Patterns]]] Schumacher, Fernandez-Buglioni , Hybertson, Buschmann, Sommerlad: "Security Patterns", “Integrating Security and Systems Engineering”, Wiley 2005
-- [[[mcgraw2,McGraw 2006]]] Garry McGraw: "Software Security - Building Security in", Addison Wesley 2006, “An Enterprise Software Security Program”, p. 239ff
 
-**Software Penetration Testing**
+**F**
 
-- [[[mcgraw3,McGraw 2006]]] Garry McGraw: "Software Security - Building Security in", Addison Wesley 2006, “Software Penetration Testing”, p. 171
+- [[[first,FIRST]]] FIRST, Common Vulnerability Scoring System, https://www.first.org/cvss
 
-**Patch Management**
+**M**
 
-- [[[andersonSecEng2,Anderson 2001]] ]Ross Anderson: "Security Engineering", O'Reilly 2001, Methodology, p. 836ff
-
-**Social Engineering**
-
+- [[[mcgraw,McGraw 2006]]] Garry McGraw: "Software Security - Building Security in", Addison Wesley 2006
 - [[[mitnick,Mitnick 2002]]]Kevin Mitnick, Steve Wozniak: “The Art of Deception”, John Willey & Sons 2002
 
-**Kryptographie**
+**O**
+
+- [[[owaspTM,OWASP TM]]] OWASP Wiki: "Threat Modelling", https://www.owasp.org/index.php/Application_Threat_Modeling
+- [[[owaspRRM,OWASP RRM]]] OWASP Wiki: "Risk Rating Methodology", https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology
+- [[[owaspSCP,OWASP SCP]]] OWASP Wiki: "Secure Coding Practices", https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide
+
+**S**
 
 - [[[schneierAC, Schneier 1996]]] Bruce Schneier: "Applied Cryptography", John Wiley & Sons 1996
+- [[[schneierAttackTrees,Schneier 1999]]] Bruce Schneier (1999), https://www.schneier.com/academic/archives/1999/12/attack_trees.html
+- [[[secpatterns,Security Patterns]]] Schumacher, Fernandez-Buglioni, Hybertson, Buschmann, Sommerlad: "Security Patterns", “Integrating Security and Systems Engineering”, Wiley 2005
+
+
+
+
