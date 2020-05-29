@@ -15,22 +15,22 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 
 | German
 |
-| link:advanced-curriculum_de.html[HTML]
-| link:advanced-curriculum_de.pdf[PDF]
+| link:curriculum-websec-de.html[HTML]
+| link:curriculum-websec-de.pdf[PDF]
 
-| English
-|
-| link:advanced-curriculum_en.html[HTML]
-| link:advanced-curriculum_en.pdf[PDF]
+//| English
+//|
+//| link:curriculum-websec-en.html[HTML]
+//| link:curriculum-websec-en.pdf[PDF]
 
 | German
 | ✔️
-| link:advanced-curriculum_remarks_de.html[HTML]
-| link:advanced-curriculum_remarks_de.pdf[PDF]
+| link:curriculum-websec-remarks-de.html[HTML]
+| link:curriculum-websec-remarks-de.pdf[PDF]
 
-| English
-| ✔️
-| link:advanced-curriculum_remarks_en.html[HTML]
-| link:advanced-curriculum_remarks_en.pdf[PDF]
+//| English
+//| ✔️
+//| link:curriculum-websec-remarks-en.html[HTML]
+//| link:curriculum-websec-remarks-en.pdf[PDF]
 
 |===
