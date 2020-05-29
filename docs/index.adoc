@@ -18,19 +18,19 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 | link:curriculum-websec-de.html[HTML]
 | link:curriculum-websec-de.pdf[PDF]
 
-| English
-|
-| link:advanced-curriculum_en.html[HTML]
-| link:advanced-curriculum_en.pdf[PDF]
+//| English
+//|
+//| link:curriculum-websec-en.html[HTML]
+//| link:curriculum-websec-en.pdf[PDF]
 
 | German
 | ✔️
 | link:curriculum-websec-remarks-de.html[HTML]
 | link:curriculum-websec-remarks-de.pdf[PDF]
 
-| English
-| ✔️
-| link:advanced-curriculum_remarks_en.html[HTML]
-| link:advanced-curriculum_remarks_en.pdf[PDF]
+//| English
+//| ✔️
+//| link:curriculum-websec-remarks-en.html[HTML]
+//| link:curriculum-websec-remarks-en.pdf[PDF]
 
 |===
