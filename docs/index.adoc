@@ -15,8 +15,8 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 
 | German
 |
-| link:advanced-curriculum_de.html[HTML]
-| link:advanced-curriculum_de.pdf[PDF]
+| link:curriculum-websec-de.html[HTML]
+| link:curriculum-websec-de.pdf[PDF]
 
 | English
 |
@@ -25,8 +25,8 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 
 | German
 | ✔️
-| link:advanced-curriculum_remarks_de.html[HTML]
-| link:advanced-curriculum_remarks_de.pdf[PDF]
+| link:curriculum-websec-remarks-de.html[HTML]
+| link:curriculum-websec-remarks-de.pdf[PDF]
 
 | English
 | ✔️
