@@ -45,12 +45,42 @@
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: TBD
-tbd.
+==== LG 4-1: Common 'good practices'
+
+-	'Don’t do it yourself'
+-	External security reviews
+-	Penetration testing
 
 [[LG-4-2]]
-==== LG 4-2: TBD
-tbd.
+==== LG 4-2: Authentication types
+
+- Multifaktor
+- HTTP Auth
+- Single Sign On
+
+[[LG-4-3]]
+==== LG 4-3: "Security through obscurity" security measures
+
+‘Security through obscurity’ measures alone are not enough to implement a secure system, but can be helpful to reduce attack vectors and provide the attacker with as little information as possible.
+
+[[LG-4-4]]
+==== LG 4-4: Security-related protocols (e.g., TLS)
+
+[[LG-4-5]]
+==== LG 4-5: Common authorization concepts and relevant implementations
+
+-	Stateless vs. stateful
+-	OAuth (Open Standard for Authorization) / OpenID Connect
+-	OpenID
+-	SAML (Security Assertion Markup Language)
+-	JWT (JSON Web Tokens)
+
+[[LG-4-6]]
+==== LG 4-6: Supporting tools
+-	Review
+-	Code/project analysis
+-	Integration build process
+-	If necessary, further tools can be explained in the training
 // end::EN[]
 
 // tag::REMARK[]

@@ -72,10 +72,68 @@ Weitere Beispiele:
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: TBD
-tbd.
+==== LG 2-1: Basic concept ‘validation of all inputs and escaping of all outputs’
+Most attacks are based either on the lack of validation of user input or the lack of escaping of output from the application. A secure application design makes the implementation of these basic rules easy.
 
 [[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
+==== LG 2-2: Principle of security gates, review, and ‘trust no one’
+Further principles lay the foundation for secure application in design, development, and team culture. This includes the classic ‘two-man rule’ as well as ‘trust no one – document the exceptions’, ‘a chain is only as strong as its weakest link’.
+
+[[LG-2-3]]
+==== LG 2-3: Indicators of secure application design
+
+-	Compliance with documented architectural specifications
+-	Compliance with a documented development process
+-	Regular reviews (for instance, the two-man rule)
+-	Measures derived from the threat analysis
+
+[[LG-2-4]]
+==== LG 2-4: Basic patterns for secure coding guidelines
+-	Find your own security patterns
+
+More examples:
+-	Secure Factory
+-	Secure State Machine
+-	Secure Logger
+-	...
+
+[[LG-2-5]]
+==== LG 2-5: Content of a secure development process and example framework
+
+- OWASP SAMM
+-	MS SDL
+-	BSIMM
+-	Own derivations of best practices suitable for your own company
+
+[[LG-2-6]]
+==== LG 2-6: Access concepts for system landscape, artifacts, and source code
+
+-	Creating access concepts
+-	The design of security-relevant acceptance criteria
+-	How changes to an application are fully documented
+-	How to handle 3rd party code securely (dependency management)
+-	How does penetration testing work as an audit method?
+-	What test options are there?
+-	Influence of a secure development process on infrastructure and project planning
+
+
+[[LG-2-7]]
+==== LG 2-7: Which tools and infrastructure components support the secure development process
+-	Basic tools to support a more secure development process
+-	Basic security-relevant infrastructure components
+
+[[LG-2-8]]
+==== LG 2-8: Demarcation of analytical methods
+
+- SAST (Static Application Security Testing)
+- DAST (Dynamic Application Security Testing)
+- IAST (Interactive Application Security Testing)
+- SCA (Software Composition Analysis)
+
+[[LG-2-9]]
+==== LG 2-9: Incident management
+
+-	Acknowledgment of security vulnerabilities
+-	Application security lifecycle
+-	Patch management
 // end::EN[]

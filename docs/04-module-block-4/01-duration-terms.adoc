@@ -17,13 +17,18 @@ Authentifizierungskonzepte, Multi-Faktor, Single-Sign-On, Identity Management, F
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 240 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
-* Term 1
-* Term 2
-* Term 3
+=== Terms and principles
+Specific security issues such as authentication or secure data transmission are often solved with technically similar measures. Some of these solutions require a specific application design. Subsequent refactoring in the direction of these designs is often associated with high expenses and is prone to errors at these critical points.
+
+_This section relates to the security of web systems. For information systems or embedded systems, other content must be conveyed accordingly._
+
+*Important terms:*
+
+Authentication principles, multifactor, single sign-on, identity management, federation, tools, secure protocols, authorization concepts
+
 // end::EN[]
 
 // tag::REMARK[]

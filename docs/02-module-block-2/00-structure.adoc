@@ -2,10 +2,15 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::DE[]
 == Sicherer Entwurfs- und Entwicklungsprozess
+// end::DE[]
+
+// tag::EN[]
+== Secure design and development process
+// end::EN[]
 
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 include::02-learning-goals.adoc[{include_configuration}]
-

@@ -22,7 +22,7 @@ image:01-basics/zeitaufteilung.png[pdfwidth=75%, role="text-center"]
 // end::DE[]
 
 // tag::EN[]
-=== Curriculum Structure and Recommended Durations
+=== Structure of the curriculum and recommended allocation of time
 
 [cols="<,>", options="header"]
 |===

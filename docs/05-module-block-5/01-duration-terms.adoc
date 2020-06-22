@@ -15,12 +15,15 @@ Angriffsvektoren, Angriffe in Netzwerken, gängige Angriffsmethoden im Web, Inje
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 240 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
-* Term 1
-* Term 2
-* Term 3
-// end::EN[]
+=== Terms and principles
+Although attack methods such as SQL injections have been known for several decades, their prevalence shows that this problem still exists. A recurring pattern of attacks is evident, especially for web applications. An understanding of common attacks is required for designing and developing secure applications.
 
+_This section relates to the security of web systems. For information systems or embedded systems, other content must be conveyed accordingly._
+
+*Important terms:*
+
+Attack vectors, network attacks, common web attack methods, injection, fuzzing, hijacking, cross-site attacks, social engineering, denial of service (DoS), credential stuffing
+// end::EN[]

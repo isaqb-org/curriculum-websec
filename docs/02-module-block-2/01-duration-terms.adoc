@@ -15,12 +15,12 @@ Dokumentation Sicherheitskonzept, Zugriffskonzept, sichere Entwicklungsinfrastru
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 105 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-* Term 1
-* Term 2
-* Term 3
-// end::EN[]
+Security must be taken into account when an application is created. This extends across all stages of development. Security-specific design decisions often relate to specific requirements. However, there are established tools and process models to make design and implementation fundamentally more secure.
 
+*Important terms:*
+Documentation security concept, access concept, secure development infrastructure, handling 3rd party code, supporting tools, application security lifecycle, security by design
+// end::EN[]

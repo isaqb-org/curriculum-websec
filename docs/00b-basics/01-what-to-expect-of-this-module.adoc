@@ -21,10 +21,25 @@ Dieser Lehrplan spart folgende Themenkomplexe aus:
 // end::DE[]
 
 // tag::EN[]
-=== What does the module “{curriculum-short}” convey?
+=== What is taught in the WEBSEC module?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+Security requirements are among the key challenges when designing and developing software. There are often a variety of potential attack points in IT systems that could be successfully exploited by potential attackers (with appropriate effort).
+
+The lack of basic knowledge on security, high time pressure or carelessness frequently leads to seemingly small errors, which can then be exploited with fatal consequences in terms of security. Web applications, in particular, often have a potentially large, globally distributed user group with access via the Internet. As a result of this, the circle of attackers increases massively and so, too, does the likelihood of errors being discovered and exploited. In addition, web applications are often victims of automated attack attempts shortly after implementation. Information systems may only be used by the company’s own employees and are thus exposed to other attack scenarios. After all, embedded systems can now be found almost everywhere, so security issues can have a massive impact. Updates are not always possible in embedded systems.
+
+If you take a look at the most common attack methods, they can usually be prevented by a “clean” architecture and clear communication. This curriculum aims to combine the somewhat academic world of security in software development with common technical practice.
+
+Security cannot be considered independently of the context in which the systems are used. The reference to web applications, information systems, or embedded systems limits the thematic focus and ensures that the relevant information for the security of the respective systems is communicated. The curriculum focuses on web applications, but content about embedded systems or information systems can be inserted at the relevant points instead.
+
+=== Demarcation
+
+This curriculum excludes the following topics:
+
+-	Security measures such as organizational access and entry control systems
+-	Structural measures to increase the security of IT infrastructure (e.g., fire protection, locking systems)
+-	Detailed presentation or discussion of the legal foundations
+-	Hardware (physical attacks, biometrics, emissions)
+
 // end::EN[]
 
 // tag::REMARK[]
@@ -34,4 +49,3 @@ Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen besc
 nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
 ====
 // end::REMARK[]
-

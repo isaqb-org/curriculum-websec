@@ -11,12 +11,11 @@ gängige Verfahren und ihre Lebenszeit, allgemeine Empfehlungen
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 135 min | Practice time: 0 min
 |===
 
-=== Terms and Principles
-* Term 1
-* Term 2
-* Term 3
-// end::EN[]
+===	Terms and principles
+Hash procedures, random numbers, entropy, symmetric encryption, asymmetric encryption,
+common standards and their lifetime, general recommendations
 
+// end::EN[]

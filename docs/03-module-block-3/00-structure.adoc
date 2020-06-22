@@ -2,7 +2,13 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::DE[]
 == Kryptographie
+// end::DE[]
+
+// tag::EN[]
+== Cryptography
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 

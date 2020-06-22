@@ -33,12 +33,33 @@ Feedback Kanäle können unter anderem sein:
 // end::DE[]
 
 // tag::EN[]
+
 [[LG-6-1]]
-==== LG 6-1: TBD
-tbd.
+==== LG 6-1:Function/operation and processes of firewalls
+
+-	Packet filtering
+-	Zone principle in operation
+-	Use and architectural impact of a DMZ
 
 [[LG-6-2]]
-==== LG 6-2: TBD
-tbd.
-// end::EN[]
+==== LG 6-2: Web Application Firewalls
 
+[[LG-6-3]]
+==== LG 6-3: Intrusion Detection / Prevention systems
+
+[[LG-6-4]]
+==== LG 6-4: Validation with feedback from operations
+
+Feedback channels can be, among other things:
+
+-	Logging
+-	Monitoring
+-	Fixed feedback processes/interfaces
+
+[[LG-6-5]]
+==== LG 6-5: Use of TLS
+
+-	Principle of transport layer security
+-	Use even within closed networks
+
+// end::EN[]

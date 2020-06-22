@@ -87,7 +87,88 @@ Die Teilnehmer sollen die Abwägung von Sicherheit gegenüber Qualitätsmerkmale
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-tbd.
-// end::EN[]
+==== LG 1-1: Risks and models
 
+A comprehensive software architecture includes:
+
+-	Analysis of risks from a security perspective
+-	Threat model
+-	Attack trees
+-	Threat analysis
+
+
+Classification of risks related to architecture:
+
+- Adaptation of quality objectives
+- Additional non-functional requirements
+- The possible application of secure design patterns
+
+Understanding the importance of risk management and possible actions via the phases:
+
+-	Requirement analysis
+-	Architectural design
+-	Development process
+-	Acceptance and testing
+-	Operations and infrastructure
+
+These phases are independent of process models. Agile processes and a waterfall process both pass through these phases, only at different frequencies.
+
+[[LG-1-2]]
+==== LG 1-2: The fundamental security goals
+
+Security goals include:
+
+-	Confidentiality
+-	Integrity
+-	Authenticity
+-	Availability
+-	Liability
+-	Anonymity
+-	Imputability
+
+Following the training, participants should know the security goals and be able to assess their importance.
+
+[[LG-1-3]]
+==== LG 1-3: Asset identification and access concepts
+
+Participants should be able to identify and classify assets worth protecting (for example, sensitive or personal data). They should also be able to handle access concepts. To do this, it is necessary to understand access principles and know different types of principles (ACL, role-based, etc.).
+
+[[LG-1-4]]
+==== LG 1-4: Identify criteria for acceptance and auditing
+
+Nach der Identifikation von schützenswerten Assets lassen sich daraus Maßnahmen zum Schutz dieser Assets ableiten. Die Umsetzung dieser Maßnahmen sollte bei einer Abnahme nach vorher bekannten Kriterien überprüft werden.
+
+After identifying assets worth protecting, measures can be derived from this to protect these assets. The implementation of these measures should be reviewed in the event of acceptance according to previously known criteria.
+
+[[LG-1-5]]
+==== LG 1-5: Tradeoff of security against other quality attributes
+Participants should understand the tradeoff of security against quality attributes (e.g., usability, ISO 25010 formerly 9126) or their own business purpose (business context analysis).
+
+[[LG-1-6]]
+==== LG 1-6: Understand security as a process, not as a single measure
+
+[[LG-1-7]]
+==== LG 1-7: Understand security as the responsibility of all stakeholders
+
+[[LG-1-8]]
+==== LG 1-8: Know common guidelines, standards, and recommendations
+
+-	ISO 27000 (Information Technology - Security Techniques)
+-	ÖNORM A 7700 (Sicherheitstechnische Anforderungen an Webapplikationen)
+-	BSI Grundschutz
+-	Common Criteria for Information Technology Security Evaluation (ISO 15408)
+-	OWASP (Open Web Application Security Project)
+-	PCI-DSS (Payment Card Industry Data Security Standard)
+-	GDPR (General Data Protection Regulation)
+-	Regulations on security for commissioned data processing
+-	Legal liability for security issues
+
+
+[[LG-1-9]]
+==== LG 1-9: Know common classification systems for security issues
+-	CVSS (Common Vulnerability Scoring System)
+-	OWASP Rating
+
+[[LG-1-10]]
+==== LG 1-10: Categorize common certifications
+// end::EN[]

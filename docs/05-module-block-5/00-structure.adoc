@@ -2,7 +2,13 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::DE[]
 == Web: Bekannte Angriffe und Angriffsvektoren
+// end::DE[]
+
+// tag::EN[]
+== Web: Known attacks and attack vectors
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 

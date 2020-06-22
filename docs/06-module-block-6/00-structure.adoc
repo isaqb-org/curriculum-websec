@@ -2,7 +2,13 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::DE[]
 == Web: Security und Infrastruktur
+// end::DE[]
+
+// tag::EN[]
+== Web: Security and infrastructure
+// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 

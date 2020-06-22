@@ -21,13 +21,22 @@ Betriebskonzept, Audit, Richtlinien, Standards, Business Context analysis, Risk 
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 105 min | Practice time: 30 min
 |===
 
-=== Terms and Principles
-* Term 1
-* Term 2
-* Term 3
+=== Terms and principles
+
+Security in software development often involves greater effort when designing, developing, maintaining, and operating an application.
+These measures are intended to increase the security of the application and thus support fundamental architectural objectives. This includes an analysis of the following aspects:
+- data and system functions worth protecting
+- potential attack vectors
+- dealing with problems caused by potential security vulnerabilities.
+In addition, there are common guidelines and standards. These analyses serve as the basis for all other security concepts.
+
+*Important terms:*
+
+Risk management, risk management framework, threat modeling, threat management, attack tree,
+attack vector, operational concept, audit, guidelines, standards, business context analysis, risk appetite
 // end::EN[]
 
 

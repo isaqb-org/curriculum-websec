@@ -67,11 +67,55 @@ Es gibt eine Reihe bekannter, herstellerneutraler Websites, die aktuelle Angriff
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
+==== LG 5-1: Attack vectors and classification
+
+Participants should know the usual attack vectors and be able to classify them in an architecture-specific manner
+
+-	Application layer
+-	Operating system and container layer
+-	Network layer
+-	Design layer
+-	Process layer
 
 [[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
-// end::EN[]
+==== LG 5-2: Specific dangers of social engineering in web applications
 
+[[LG-5-3]]
+==== LG 5-3: Injection attacks
+-	How do injection attacks work?
+-	What design decisions hamper injection attacks?
+
+[[LG-5-4]]
+==== LG 5-4: Significance and functioning of denial-of-service (DoS) and distributed denial-of-service (DDoS) attacks
+-	How do DoS and DDoS attacks work?
+-	Which design decisions can hamper DoS and DDoS attacks?
+-	How can such attacks be detected during operation?
+-	Importance of botnets
+
+[[LG-5-5]]
+==== LG 5-5: Attacks via the runtime environment/application platform
+-	Encryption of (temporary) data
+-	Importance of swapping
+-	Backdoors
+-	In-memory attacks
+
+[[LG-5-6]]
+==== LG 5-6: Identifying security vulnerabilities via fuzzing
+-	What problems can be found by means of fuzzing?
+-	Fuzzing as a black box test
+-	Countermeasures and effects
+
+[[LG-5-7]]
+==== LG 5-7: Man-in-the-middle attacks
+-	How do MITM attacks work?
+-	What possible countermeasures can hamper and/or prevent MITM attacks?
+-	How can MITM attacks be detected?
+
+[[LG-5-8]]
+==== LG 5-8: Wichtige Quellen über aktuelle Bedrohungen und Angriffe
+
+There are a number of well-known vendor-neutral websites that publish and explain current attacks and threats.
+
+- SANS25
+- OWASP Top Ten
+// end::EN[]

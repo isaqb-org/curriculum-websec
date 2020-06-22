@@ -51,11 +51,46 @@
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: TBD
-tbd.
+==== LG 3-1: Basics
+
+-	Cryptography (encryption) to keep information confidential
+-	Basic terms:
+    * Integrity
+    * Authenticity
+    * Confidentiality
+    * Liability
+    * Protection against unintentional/unauthorized access
+-	Public versus confidential algorithms (Kerckhoffs’s principle)
+-	Current state of research: public algorithms, secret keys
 
 [[LG-3-2]]
-==== LG 3-2: TBD
-tbd.
-// end::EN[]
+==== LG 3-2: Hashing
 
+-	The use of hashing methods
+-	Common procedures
+-	Known attacks against hashing methods (e.g., rainbow tables)
+-	Salting
+
+[[LG-3-3]]
+==== LG 3-3: Encryption procedures
+
+-	The influence of secure random number generation on encryption (entropy)
+-	The use cases and use of symmetric encryption
+-	The use cases and use of asymmetric encryption
+-	Common procedures and their recommended lifetime
+-	'Perfect forward secrecy' principle
+
+[[LG-3-4]]
+==== LG 3-4: Trust concepts
+- CA principles and PKI
+- Web of trust
+
+[[LG-3-5]]
+==== LG 3-5: Practical use
+
+-	Use of cryptographic libraries and frameworks
+-	Principle of the crypto-provider (separation of interface and implementation)
+-	Certificates (X.509)
+-	Digital signatures
+
+// end::EN[]

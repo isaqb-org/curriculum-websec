@@ -20,19 +20,19 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 | link:{curriculumBaseName}-de.html[HTML]
 | link:{curriculumBaseName}-de.pdf[PDF]
 
-//| English
-//|
-//| link:{curriculumBaseName}-en.html[HTML]
-//| link:{curriculumBaseName}-en.pdf[PDF]
+| English
+|
+| link:{curriculumBaseName}-en.html[HTML]
+| link:{curriculumBaseName}-en.pdf[PDF]
 
 | German
 | ✔️
 | link:{curriculumBaseName}-remarks-de.html[HTML]
 | link:{curriculumBaseName}-remarks-de.pdf[PDF]
 
-//| English
-//| ✔️
-//| link:{curriculumBaseName}-remarks-en.html[HTML]
-//| link:{curriculumBaseName}-remarks-en.pdf[PDF]
+| English
+| ✔️
+| link:{curriculumBaseName}-remarks-en.html[HTML]
+| link:{curriculumBaseName}-remarks-en.pdf[PDF]
 
 |===

@@ -16,13 +16,17 @@ WAF, DMZ, Firewall, IDS, IPS, Logging, Monitoring, Ongoing Feedback
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 135 min | Practice time: 0 min
 |===
 
-=== Terms and Principles
-* Term 1
-* Term 2
-* Term 3
+=== Terms and principles
+Web applications do not run as completely isolated systems, but are surrounded by infrastructure. In order to increase security, the same components are used again and again. This is not about specific products from a manufacturer, but about the basic ideas and principles behind them.
+
+_This section relates to the security of web systems. For information systems or embedded systems, other content must be conveyed accordingly._
+
+*Important terms:*
+WAF, DMZ, firewall, IDS, IPS, logging, monitoring, ongoing feedback
+
 // end::EN[]
 
 // tag::REMARK[]
