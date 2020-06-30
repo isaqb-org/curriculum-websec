@@ -112,7 +112,7 @@ Participants should know the usual attack vectors and be able to classify them i
 -	How can MITM attacks be detected?
 
 [[LG-5-8]]
-==== LG 5-8: Wichtige Quellen über aktuelle Bedrohungen und Angriffe
+==== LG 5-8: Important sources for current threats and attacks
 
 There are a number of well-known vendor-neutral websites that publish and explain current attacks and threats.
 
