@@ -54,7 +54,7 @@
 [[LG-4-2]]
 ==== LG 4-2: Authentication types
 
-- Multifaktor
+- Multifactor
 - HTTP Auth
 - Single Sign On
 
