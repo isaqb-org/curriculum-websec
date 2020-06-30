@@ -135,9 +135,6 @@ Participants should be able to identify and classify assets worth protecting (fo
 
 [[LG-1-4]]
 ==== LG 1-4: Identify criteria for acceptance and auditing
-
-Nach der Identifikation von schützenswerten Assets lassen sich daraus Maßnahmen zum Schutz dieser Assets ableiten. Die Umsetzung dieser Maßnahmen sollte bei einer Abnahme nach vorher bekannten Kriterien überprüft werden.
-
 After identifying assets worth protecting, measures can be derived from this to protect these assets. The implementation of these measures should be reviewed in the event of acceptance according to previously known criteria.
 
 [[LG-1-5]]
