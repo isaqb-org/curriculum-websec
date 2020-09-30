@@ -28,14 +28,14 @@ image:01-basics/zeitaufteilung.png[pdfwidth=75%, role="text-center"]
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Analysis | 180
-| 2. Secure Development and Design | 180
-| 3. Cryptography | 180
-| 4. Web: Technical Foundations | 360
-| 5. Web: Attack Vectors | 360
-| 6. Web: Security and Infrastructure | 180
+| 1. Analysis | 135
+| 2. Secure Development and Design | 135
+| 3. Cryptography | 135
+| 4. Web: Technical Foundations | 270
+| 5. Web: Attack Vectors | 270
+| 6. Web: Security and Infrastructure | 135
 | |
-| Total | 1440 (24h)
+| Total | 1080 (18h)
 
 |===
 
