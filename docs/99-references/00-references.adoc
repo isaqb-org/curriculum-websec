@@ -38,7 +38,7 @@ ATTENTION: labels have to be non-numeric.
 
 **B**
 
-- [[[bsi,BSI Grundschutz]]] BSI IT-Grundschutz: "Umfassende Ein- und Ausgabevalidierung bei Webanwendungen und Web-Services", https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKataloge/Inhalt/_content/m/m04/m04393.html
+- [[[bsi,BSI Grundschutz]]] BSI IT-Grundschutz: "Entwicklung von Webanwendungen", https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium_Einzel_PDFs_2023/03_CON_Konzepte_und_Vorgehensweisen/CON_10_Entwicklung_von_Webanwendungen_Edition_2023.pdf?__blob=publicationFile&v=3#download=1
 
 **C**
 
