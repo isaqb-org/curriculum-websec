@@ -30,17 +30,3 @@ _This section relates to the security of web systems. For information systems or
 Authentication principles, multifactor, single sign-on, identity management, federation, tools, secure protocols, authorization concepts
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]

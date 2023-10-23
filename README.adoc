@@ -63,11 +63,11 @@ In case you want to change that, adjust the following part of `build.gradle`:
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
+  dependsOn "renderDE", "renderEN"
 }
 ----
 
-In the task "renderNoRemarksDE", certain attributes (aka variables) are defined that configure the corresponding output.
+In the task "renderDE", certain attributes (aka variables) are defined that configure the corresponding output.
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]

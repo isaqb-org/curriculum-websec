@@ -26,9 +26,3 @@ The requirements for training depend on the area on which the training focuses. 
 There are other requirements for information systems and embedded systems. However, basic knowledge of the architecture and implementation of such systems is sufficient.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
-// end::REMARK[]

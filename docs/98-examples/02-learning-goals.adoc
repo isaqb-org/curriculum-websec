@@ -12,10 +12,3 @@
 // end::EN[]
 
 
-// tag::REMARK[]
-
-[NOTE]
-====
-KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
-====
-// end::REMARK[]

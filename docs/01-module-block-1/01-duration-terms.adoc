@@ -39,17 +39,3 @@ Risk management, risk management framework, threat modeling, threat management, 
 attack vector, operational concept, audit, guidelines, standards, business context analysis, risk appetite
 // end::EN[]
 
-
-// tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]
