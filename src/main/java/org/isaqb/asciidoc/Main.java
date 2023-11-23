@@ -50,25 +50,30 @@ public class Main {
         language,
         projectVersion,
         curriculumFileName,
-        versionDate
+        versionDate,
+        curriculumFileName
     ));
-    convertInLanguage(
-        ENGLISH,
+
+    convertInFormat(HTML,
         projectVersion,
         INDEX_FILE_NAME,
-        versionDate);
+        versionDate,
+        ENGLISH,
+        curriculumFileName);
   }
 
   private static void convertInLanguage(
       final String language,
       final String projectVersion,
       final String curriculumFileName,
-      final String versionDate) {
+      final String versionDate,
+      final String curriculumName) {
     Stream.of(FORMATS).forEach(format -> convertInFormat(
         format, projectVersion,
         curriculumFileName,
         versionDate,
-        language
+        language,
+        curriculumName
     ));
   }
 
@@ -77,11 +82,12 @@ public class Main {
       final String projectVersion,
       final String curriculumFileName,
       final String versionDate,
-      final String language) {
+      final String language,
+      final String curriculumName) {
     try (final Asciidoctor asciidoctor = create()) {
       final Attributes attributes = toAttributes(
           projectVersion,
-          curriculumFileName,
+          curriculumName,
           versionDate,
           language);
       asciidoctor.convertDirectory(
@@ -98,7 +104,9 @@ public class Main {
               .toDir(new File(OUTPUT_DIR))
               .safe(SafeMode.UNSAFE)
               .build());
+
       if (!INDEX_FILE_NAME.equals(curriculumFileName)) {
+        // rename only if we're not creating the index file.
         renameResultAccordingToLanguage(curriculumFileName, format, language);
       }
     }
@@ -147,11 +155,14 @@ public class Main {
       final String format,
       final String language) {
     final File original = new File("%s%s.%s".formatted(OUTPUT_DIR, fileName, format));
-        final File renamed = new File("%s%s-%s.%s".formatted(OUTPUT_DIR, fileName, language.toLowerCase(), format));
+    final File renamed = new File(
+        "%s%s-%s.%s".formatted(OUTPUT_DIR, fileName, language.toLowerCase(), format));
     if (!original.exists()) {
-            System.err.printf("Failed to rename result file %s as it does not exist", original.getAbsolutePath());
+      System.err.printf("Failed to rename result file %s as it does not exist",
+          original.getAbsolutePath());
     } else if (!original.renameTo(renamed)) {
-            System.err.printf("Failed to rename result file %s to %s%n", original.getName(), renamed.getName());
+      System.err.printf("Failed to rename result file %s to %s%n", original.getName(),
+          renamed.getName());
     }
     original.deleteOnExit();
   }
