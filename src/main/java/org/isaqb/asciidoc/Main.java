@@ -129,7 +129,6 @@ public class Main {
       put("currentDate", versionDate);
       put("language", language);
       put("curriculumFileName", curriculumFileName);
-      put("debug_adoc", false);
       put("pdf-themesdir", "../pdf-theme/themes");
       put("pdf-fontsdir", "../pdf-theme/fonts");
       put("pdf-theme", "isaqb");
@@ -155,14 +154,11 @@ public class Main {
       final String format,
       final String language) {
     final File original = new File("%s%s.%s".formatted(OUTPUT_DIR, fileName, format));
-    final File renamed = new File(
-        "%s%s-%s.%s".formatted(OUTPUT_DIR, fileName, language.toLowerCase(), format));
+        final File renamed = new File("%s%s-%s.%s".formatted(OUTPUT_DIR, fileName, language.toLowerCase(), format));
     if (!original.exists()) {
-      System.err.printf("Failed to rename result file %s as it does not exist",
-          original.getAbsolutePath());
+            System.err.printf("Failed to rename result file %s as it does not exist", original.getAbsolutePath());
     } else if (!original.renameTo(renamed)) {
-      System.err.printf("Failed to rename result file %s to %s%n", original.getName(),
-          renamed.getName());
+            System.err.printf("Failed to rename result file %s to %s%n", original.getName(), renamed.getName());
     }
     original.deleteOnExit();
   }
